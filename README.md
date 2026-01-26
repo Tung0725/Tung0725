@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Tung 👋
 
-<!--
-**Tung0725/Tung0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 **Current Focus:** Building IoT solutions with **ESP32** and developing Java-based web applications using **Servlets/JSP**.
+- 🌱 **Learning Journey:** Sharpening my problem-solving skills on **LeetCode** and exploring advanced Database Management Systems.
+- 💬 **Ask Me About:** Data Structures & Algorithms, Java programming, or my experience with the **BloomHer** community project.
+- 📫 **Connect with me:** [Insert your LinkedIn/Email link here]
+- ⚡ **Fun Fact:** I’m a tech enthusiast who is also fascinated by **Japanese culture and language**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Java, SQL (MySQL/SQL Server), C++, HTML/CSS, JavaScript.
+- **Frameworks & Libs:** Java Servlets, JSP, JDBC.
+- **Hardware/IoT:** ESP32, Arduino, Sensor Integration.
+- **Tools:** Git, GitHub, VS Code, NetBeans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Metrics
+
+
+---
+*“Coding is not just about logic, it’s about creating impact.”*
