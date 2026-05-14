@@ -1,4 +1,4 @@
-# Hi there, I'm Tùng 👋
+# Hi there, I'm Tung 👋
 
 ### 👨‍💻 About Me
 - 🔭 **Current Focus:** Building IoT solutions with **ESP32** and developing Java-based web applications using **Servlets/JSP**.
