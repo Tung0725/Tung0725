@@ -1,20 +1,17 @@
 # Hi there, I'm Tung 👋
 
 ### 👨‍💻 About Me
-- 🔭 **Current Focus:** Building IoT solutions with **ESP32** and developing Java-based web applications using **Servlets/JSP**.
-- 🌱 **Learning Journey:** Sharpening my problem-solving skills on **LeetCode** and exploring advanced Database Management Systems.
-- 💬 **Ask Me About:** Data Structures & Algorithms, Java programming, or my experience with the **BloomHer** community project.
-- 📫 **Connect with me:** [Insert your LinkedIn/Email link here]
-- ⚡ **Fun Fact:** I’m a tech enthusiast who is also fascinated by **Japanese culture and language**.
+- 🔭 **Current Focus:** Developing scalable backend systems using **Java & Spring Boot**, currently building a real-time **Smart Parking Management System**.
+- 🌱 **Learning Journey:** Diving deep into **Clean Code, SOLID principles**, backend architecture, and real-time data processing (WebSockets/Redis).
+- 💬 **Ask Me About:** Java programming, RESTful API design, Spring Boot ecosystem, and Database optimization.
+- 📫 **Connect with me:** duytung200575456@gmail.com
+- ⚡ **Fun Fact:** My code compiles on the first try... sometimes. I spend 10% of my time writing code, and 90% figuring out why it doesn't work.
 
 ### 🛠 Tech Stack
-- **Languages:** Java, SQL (MySQL/SQL Server), C++, HTML/CSS, JavaScript.
-- **Frameworks & Libs:** Java Servlets, JSP, JDBC.
-- **Hardware/IoT:** ESP32, Arduino, Sensor Integration.
-- **Tools:** Git, GitHub, VS Code, NetBeans.
-
-### 📊 My GitHub Metrics
-
+- **Languages:** Java, SQL, JavaScript, HTML/CSS, C++
+- **Frameworks & Libraries:** Spring Boot, Spring Security, JWT, REST APIs, WebSockets, Hibernate/JPA
+- **Databases & Caching:** PostgreSQL, SQL Server, Redis
+- **Tools & Architecture:** Git, GitHub, Postman, Swagger/OpenAPI, Maven, Docker
 
 ---
 *“Coding is not just about logic, it’s about creating impact.”*
